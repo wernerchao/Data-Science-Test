@@ -1,2 +1,4 @@
-# Machine-Learning-Test
-This is a repo for testing machine learning code
+ud120-projects
+==============
+
+Starter project code for students taking Udacity ud120
